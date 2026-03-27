@@ -1,0 +1,42 @@
+aid: node-fetch
+name: node-fetch
+description: >-
+  node-fetch is a lightweight module that brings the Fetch API to Node.js for making HTTP requests.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+      - Clients
+      - Node.js
+      - HTTP Client
+      - Fetch API
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/node-fetch/refs/heads/main/apis.yml
+created: '2026-03-27'
+modified: '2026-03-27'
+specificationVersion: '0.19'
+apis:
+  - aid: node-fetch:node-fetch
+    name: node-fetch
+    description: >-
+      node-fetch is a lightweight module that brings the Fetch API to Node.js for making HTTP requests.
+    humanURL: https://github.com/node-fetch/node-fetch
+    tags:
+        - Clients
+        - Node.js
+        - HTTP Client
+        - Fetch API
+    properties:
+      - type: Documentation
+        url: https://github.com/node-fetch/node-fetch#readme
+      - type: Getting Started
+        url: https://github.com/node-fetch/node-fetch#usage
+common:
+  - type: Website
+    url: https://github.com/node-fetch/node-fetch
+  - type: Documentation
+    url: https://github.com/node-fetch/node-fetch#readme
+  - type: GitHub Organization
+    url: https://github.com/node-fetch/node-fetch
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
