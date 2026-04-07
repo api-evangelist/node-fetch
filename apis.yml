@@ -1,5 +1,5 @@
 aid: node-fetch
-name: node-fetch
+name: Node-Fetch
 description: >-
   node-fetch is a lightweight module that brings the Fetch API to Node.js for making HTTP requests.
 type: Index
@@ -16,7 +16,7 @@ modified: '2026-03-27'
 specificationVersion: '0.19'
 apis:
   - aid: node-fetch:node-fetch
-    name: node-fetch
+    name: Node-Fetch
     description: >-
       node-fetch is a lightweight module that brings the Fetch API to Node.js for making HTTP requests.
     humanURL: https://github.com/node-fetch/node-fetch
