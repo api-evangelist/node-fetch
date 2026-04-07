@@ -5,10 +5,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-      - Clients
-      - Node.js
-      - HTTP Client
-      - Fetch API
+  - Clients
+  - Fetch API
+  - HTTP Client
+  - Node.js
 url: >-
   https://raw.githubusercontent.com/api-evangelist/node-fetch/refs/heads/main/apis.yml
 created: '2026-03-27'
@@ -21,10 +21,10 @@ apis:
       node-fetch is a lightweight module that brings the Fetch API to Node.js for making HTTP requests.
     humanURL: https://github.com/node-fetch/node-fetch
     tags:
-        - Clients
-        - Node.js
-        - HTTP Client
-        - Fetch API
+      - Clients
+      - Fetch API
+      - HTTP Client
+      - Node.js
     properties:
       - type: Documentation
         url: https://github.com/node-fetch/node-fetch#readme
