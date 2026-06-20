@@ -5,7 +5,7 @@ description: >-
   making HTTP requests. It is a client library, not an API service, and provides
   a window.fetch-compatible interface for server-side JavaScript.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Clients
   - Fetch API
