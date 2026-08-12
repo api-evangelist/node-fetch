@@ -48,6 +48,19 @@ apis:
       - type: Repository
         url: https://github.com/node-fetch/node-fetch
 common:
+  - type: IssueTracker
+    url: https://github.com/node-fetch/node-fetch/issues
+  - type: Releases
+    url: https://github.com/node-fetch/node-fetch/releases
+  - type: SecurityPolicy
+    url: https://github.com/node-fetch/node-fetch/blob/main/SECURITY.md
+  - type: CodeOfConduct
+    url: https://github.com/node-fetch/node-fetch/blob/main/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/node-fetch/node-fetch/blob/main/CONTRIBUTING.md
+  - type: License
+    name: MIT
+    url: https://github.com/node-fetch/node-fetch/blob/main/LICENSE
   - type: Website
     url: https://github.com/node-fetch/node-fetch
   - type: Documentation
